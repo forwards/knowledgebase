@@ -57,4 +57,12 @@ We aim to have two co-leads of each sub-team, to keep the team on track. Co-lead
  - Participate as often as possible in the quarterly global event to encourage the team to keep engaged and help move tasks along.
 
 All taskforce members have a say in what activities the taskforce works on, so co-leads are not expected to come up with all the ideas themselves. However, co-leads will 
-typically be people with some experience on the taskforce/relevant experience from outside. The co-lead systems provides an opportunity fo aspiring co-leads to be mentored in the role.
+typically be people with some experience on the taskforce/relevant experience from outside. The co-lead system provides an opportunity fo aspiring co-leads to be mentored in the role.
+
+## How do I join?
+
+Please discuss with a member of the core team or contact rowforwards@gmail.com.
+
+## What happens when I join?
+
+A core team member will get you on-boarded to the Forwards Slack, GitHub and email contact lists. Depending on the team/number of people joining at once, you may be invited to a 1-to-1 meeting or a sub-team meeting to get you started. We're all volunteers, so do ask questions and explore the Slack/GitHub yourself to get stuck in!
