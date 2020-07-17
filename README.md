@@ -33,6 +33,8 @@ We ask members to join one of the sub-teams, as their main focus. Members can jo
 
 For examples of the activities of the teams, see the [team project boards](https://github.com/orgs/forwards/projects) or the [issues on the cross-team task repo](https://github.com/forwards/tasks/issues).
 
+You can also look at minutes of our past [core team meetings and slackathons](https://github.com/forwards/meetings-public).
+
 ## What is the time commitment?
 
 We try to arrange tasks to fit in with the time members can offer, so this varies a lot from person to person.
