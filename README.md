@@ -42,7 +42,7 @@ We try to arrange tasks to fit in with the time members can offer, so this varie
 However, members are encouraged to keep in touch on the Forwards Slack and to join in with the quarterly program of cross-team events:
 
  - Month 1: Americas/Asia-Pacific 1-2 hour business meeting
- - Month 2: Global event, spread over long weekend (still with plenty of free time). A dedicated weekend for us all to focus on the work of the taskforce, where we may organize talks, co-working sessions, etc.
+ - Month 2: Global event. Usually a "slackathon", spread over Monday - Thursday (still with plenty of free time). A dedicated period for us all to focus on the work of the taskforce, where we may organize talks, co-working sessions, etc.
  - Month 3: Europe/Africa/Middle East 1-2 hour business meeting.
  
 The cross-team events are intended to keep momentum going across the taskforce, share news, build community and increase our awareness of DEI issues. 
